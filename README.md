@@ -1,6 +1,6 @@
-# Telco Customer Churn Prediction
+# Customer Churn Prediction
 
-A machine learning pipeline that predicts whether a telecom customer will churn (leave the service) or not, using the IBM Telco Customer Churn dataset.
+A machine learning pipeline that predicts whether a telecom customer will churn (leave the service) or not, using the Customer Churn dataset.
 
 ---
 
